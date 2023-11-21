@@ -298,7 +298,7 @@ profile:
 TPClash 项目内的 `Taskfile.yaml` 内已经写好了自动编译脚本, 只需要执行 `task` 命令即可:
 
 ```sh
-git clone https://github.com/mritd/tpclash.git
+git clone https://github.com/opusb/tpclash.git
 cd tpclash
 task # go-task 安装成功后会包含此命令
 ```
